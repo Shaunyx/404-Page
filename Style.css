@@ -1,0 +1,44 @@
+/*Modif on gif test Flexbox
+
+.Center-gif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content :center;
+}
+*/
+
+
+.gif {
+   font-size: 9em;
+   text-align: center;
+
+   
+}
+
+
+body {
+    width: 100%;
+    height: 400px;
+    background-image: url("https://image.freepik.com/vecteurs-libre/lignes-abstraites-vecteur-fond-blanc_1302-11463.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text {
+    text-align: center;
+    font-family: Verdana;
+    color: #DC143C;
+}
+
+.button-profile {
+    font-size: 16px;
+    text-align: center;
+    color: ;
+    padding: 10px 4px;
+    margin: 16px 300px;
+    opacity: 1;
+    transition: opacity O.8s ;
+    font-style: normal ; 
+    text-decoration: none;
+}
